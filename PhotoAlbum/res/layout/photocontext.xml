@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/delete_photo"
+        android:icon="@drawable/plus"
+        android:title="@string/delete_photo"/>
+    
+     <item
+        android:id="@+id/display_photo"
+        android:icon="@drawable/plus"
+        android:title="@string/display_photo"/>
+     
+     <item
+        android:id="@+id/move_photo"
+        android:icon="@drawable/plus"
+        android:title="@string/move_photo"/>
+     
+</menu>

@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Photo Album</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_album">Create New Album</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+	<string name="image">Image</string>
+	<string name="album_name">Album Name</string>
+	<string name="photo_name">Photo Name</string>
+	<string name="delete_album">Delete Album</string>
+	<string name="rename_album">Rename Album</string>
+	<string name="open_album">Open Album</string>
+	<string name="add_photo">Add Photo</string>
+	<string name="delete_photo">Remove Photo</string>
+	<string name="display_photo">Display Photo</string>
+	<string name="add_tag">Add Tag</string>
+	<string name="delete_tag">Delete Tag</string>
+	<string name="tag_value">Tag Value</string>
+	<string name="slideshow">Slideshow</string>
+	<string name="next_photo">Next Photo</string>
+	<string name="previous_photo">Previous Photo</string>
+	<string name="move_photo">Move Photo</string>
+	<string name="search">Search By Tag</string>
+	<string name="tags">Tags</string>
+</resources>
